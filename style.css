@@ -1,0 +1,454 @@
+/* animations of sec3  */
+
+#s1{
+        animation: s1 2s infinite;
+
+}
+#s2{
+        animation: s2 6s infinite;
+
+}
+#s3{
+        animation: s3 2s infinite;
+
+}
+#s4{
+        animation: s4 2s infinite;
+
+}
+
+
+
+.heaer{
+    padding: 0 100px;
+    text-align: center;
+    gap: 30px;
+    display: flex;
+    position: relative;
+}
+
+.heaer ul{
+    margin-top: 30px;
+    display: flex;
+    list-style: none;
+    gap: 20px;
+}
+.heaer input{
+    padding: 10px;
+    height: 20px;
+    width: 550px;
+    border-radius: 50px;
+    margin-top: 20px;
+}
+.headicon{
+    font-size: 2.3em;
+    margin-top: 15px;
+} 
+.icons{
+    margin-left: 20px;
+    position: absolute;
+    font-size: 3em;
+}
+
+/* sec2 */
+.sec2{
+    margin-top: 30px;
+    display: flex;
+    background-color: rgb(214, 220, 225);
+    gap: 30px;
+    padding: 0 80px;
+}
+.sec21{
+    width: 550px;
+    animation:sec21 2s infinite;
+}
+
+.sec22{
+    width: 500px;
+    animation: sec22 2s infinite;
+    margin-left: 100px;
+}
+.sec21 .h1{
+    font-size: 3.4em;
+}
+.spans{
+    display: flex;
+    gap: 20px;
+}
+.sec21 button{
+    margin-top: 20px;
+    padding:10px 40px ;
+    background: #000;
+    color: white;
+    border: none;
+    text-align: center;
+    border-radius: 50px;
+}
+.spans  p{
+    margin-top: -25px;
+}
+
+.sec23{
+    display: flex;
+    justify-content: space-around;
+    background-color: black;
+    color: white;
+    margin-top: -4PX;
+    padding-left: 110PX;
+}
+
+/* section3 */
+
+
+.sec311  img{
+    width: 200px;
+
+}
+
+.sec311 i{
+    color: orange;
+}
+
+.sec321{
+    animation: sec3 3s infinite;
+    
+    padding: 0 10%;
+    display: flex;
+    gap: 70px;
+}
+.sec31{
+    padding: 20px;
+    border: 3px black solid ;
+    border-radius: 10px;
+}
+.sec3 button{
+    padding: 15px 70px;
+    margin-top: 30px;
+    margin-left: 45%;
+    border-radius: 50px;
+
+}
+.sec4 h1{
+    padding-bottom: 40px;
+    font-size: 2.5em;
+}
+.sec4{
+    text-align: center;
+    border-radius: 20px;
+    padding: 30PX;
+    margin: 10PX 5%;
+    background-color: rgb(158, 162, 166);
+}
+.sec41{
+    background-image: url(https://th.bing.com/th/id/OIP.7lh-HoNEExQiRJdPFaetfwHaF8?rs=1&pid=ImgDetMain);
+    width: 30PX;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    border-radius: 20px;
+    text-align: left;
+    padding: 90PX 210PX;
+    background-color: blue;
+    animation: sec41 2s infinite;
+
+}
+.sec41 h1{
+    margin-left: -190px;
+    margin-top: -70px;
+
+}
+.box4{
+    display: flex;
+    gap: 20px;
+}
+
+.sec42{
+    background-image: url(https://th.bing.com/th/id/OIP.oUTsP1rIC8GNz9MsnZbxUgHaE7?rs=1&pid=ImgDetMain);
+      width: 30PX;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: top;
+    border-radius: 20px;
+    text-align: left;
+    padding: 150PX 410PX;
+    background-color: blue;
+    animation: sec42 2s infinite;
+
+}
+.sec42 h1{
+    margin-left: -390px;
+    margin-top: -130px;
+
+}
+
+.sec43 h1{
+    margin-left: -390px;
+    margin-top: -70px;
+
+}
+
+.sec43{
+    margin-top: 20px;
+    background-image: url(https://th.bing.com/th/id/OIP.oUTsP1rIC8GNz9MsnZbxUgHaE7?rs=1&pid=ImgDetMain);
+      width: 30PX;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: top;
+    border-radius: 20px;
+    text-align: left;
+    padding: 90PX 410PX;
+    background-color: blue;
+    animation: sec43 2s infinite;
+
+}
+
+
+.sec44{
+    margin-top: 20px;
+    background-image: url(https://th.bing.com/th/id/OIP.7IbG8z48DQ1LSWaUWr5KegHaE8?w=800&h=534&rs=1&pid=ImgDetMain);
+       width: 30PX;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    border-radius: 20px;
+    text-align: left;
+    padding: 150PX 210PX;
+    background-color: blue;
+    animation: sec44 2s infinite;
+
+}
+.sec44 h1{
+    margin-left: -190px;
+    margin-top: -130px;
+
+}
+
+/* sectopn5 */
+
+.sec5 h1{
+    text-align: center;
+    padding-bottom: 40px;
+    font-size: 2.5em;
+}
+.sec5{
+    padding: 3px 5%;
+}
+.sec51{
+    width: 380px;
+    padding: 20px;
+    border-radius: 20px;
+    border: 1px solid black;
+}
+.BOX5 i{
+    color: orange;
+}
+.sec51:hover  #c3 {
+    padding-bottom: 30px;
+}
+.BOX5{
+    gap: 45px;
+    display: flex;
+}
+
+
+/* section6 */
+
+.sec6 .box{
+    display: flex;
+    justify-content: space-between;
+
+}
+.sec6 .box .b{ 
+    width: 180px;
+}
+.sec6{
+    margin-top: 30px;
+    background-color: rgb(241, 239, 239);
+    padding: 120px 5%;
+    border-radius: 10px;
+
+}
+.sec6 .box   li{ 
+    margin-bottom: 15px;
+}   
+.sec6 .box  h1{
+    font-weight: 100;
+    font-size: 1.4em;
+}
+.sec6 .box  li{
+    list-style: none;
+}
+
+.sec6 i{
+    margin-right:10px;
+}
+
+
+/* page2 */
+
+.secc2 .boxx1{
+    display: flex;
+    gap: 20px;
+}
+
+.secc2 .boxx1 .bo1 ul li img{
+    margin-bottom: 14px;
+    border-radius: 20px;
+    border: 1px solid black;
+    width: 150px;
+}
+.secc2 .boxx1 .bo2 img{
+    width: 500px;
+    border-radius: 20px;
+
+}
+.secc2 .boxx1 li{
+    list-style: none;
+}
+
+.boxx{
+    display: flex;
+    gap: 20px;
+}
+
+.boxx2{
+    padding: 0 50px;
+}
+
+.boxx2 i{
+    color: orange;
+}
+
+.boxx2 .span{
+    background-color: blue;
+    width: 200px;
+}
+
+.boxx2 .p02 button{
+    padding:10px 30px;
+    border-radius: 50px;
+    border: none;
+    margin-right: 20px;
+}
+
+.boxx2 .p03 button{
+    margin-top: 20px;
+    border: none;
+}
+
+.secc4 .box41{
+    padding: 0 10%;
+    margin-top: 30px;
+    display: flex;
+    gap: 20px;
+}
+
+
+.secc4 .box41 .secc41{
+    width: 50%;
+    padding: 20px;
+    border-radius: 10px;
+    background-color: rgb(234, 234, 228);
+}
+
+.secc4 .box41 .secc4 i{
+    color: orange;
+}
+
+.sec6 .box2{
+    position: absolute;
+    width: 80%;
+    margin-top: -180px;
+    color: white;
+    background-color: #000;
+    display: flex;
+    padding: 40px 30px;
+    border-radius: 20px;
+    justify-content: space-between;
+}
+.sec6 .box2 input{
+    padding: 10px 20px;
+    border-radius: 50px;
+    margin-bottom: 10px;
+}
+.sec6 .box2 button{
+    padding: 10px 30px;
+    border-radius: 50px;
+}
+
+.sec6 .box2 p{
+    width: 280px;
+    font-size: 1.3em;
+}
+#last1{
+    margin-top: 20px;
+    position: relative;
+}
+
+/* lastlesson */
+
+/* @keyframes sec3{
+    0%{
+        transform: scale(0.6);
+    }
+   
+    100%{
+
+    }
+} */
+/* sectin3 */
+@keyframes s1{
+    0%{ opacity: 0.8; transform: translateX(-400px);}
+   
+    100%{ opacity: 1; }
+}
+
+@keyframes s2{
+    0%{ opacity: 0.3; rotate: 400deg; }
+   
+    100%{ opacity: 1; }
+}
+@keyframes s3{
+    0%{ opacity: 0.3; transform: skew(40deg);}
+   
+    100%{ opacity: 1;}
+}
+@keyframes s4{
+    0%{ opacity: 0.3; transform: scale(2);}
+   
+    100%{ opacity: 1;}
+}
+/* an other section  */
+@keyframes sec21{
+    0%{ opacity: 0.3; transform: translateX(-400px);}
+   
+    100%{ opacity: 1;}
+}
+
+@keyframes sec22{
+    0%{ opacity: 0.3; transform: translateX(400px);}
+   
+    100%{ opacity: 1;}
+}
+
+
+@keyframes sec41{
+    0%{ opacity: 0.3; transform: scale(0.8);}
+   
+    100%{ opacity: 1;}
+}
+@keyframes sec42{
+    0%{ opacity: 0.3; transform: scale(0.8);}
+   
+    100%{ opacity: 1;}
+}
+@keyframes sec43{
+    0%{ opacity: 0.3; transform: scale(0.8);}
+   
+    100%{ opacity: 1;}
+}
+@keyframes sec44{
+    0%{ opacity: 0.3; transform: scale(0.8);}
+   
+    100%{ opacity: 1;}
+}
